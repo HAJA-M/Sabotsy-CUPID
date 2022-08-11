@@ -18,7 +18,6 @@ Fonctionnement CUPID :
 1.1) Mora hianarana
 1.2) Tokony manome avy hatrany ny zavatra tadiavina
 1.3) Kely ny dépendance
-
 2) Unix Philosophy :
 Zavatra iray manao zavatra tokana , fa mande tsara
 
@@ -41,3 +40,5 @@ ohatra python = écriture de variable = snake-case
 
 ny atao hoe Bon Codeur:
 "Any fool can write code that a computer can understand,. Good programmers, write code that human can understand"
+
+Inona ny atao hoe SOLIDE
